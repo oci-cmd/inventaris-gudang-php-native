@@ -1,0 +1,15 @@
+# Microsoft Office / Word temporary files
+~$*
+
+# Python cache (dari generator modul/panduan docx)
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor & IDE settings
+.vscode/
+.idea/
